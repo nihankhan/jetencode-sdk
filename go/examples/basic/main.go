@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	jetencode "github.com/GotipathTeam/jetencode/sdk/go"
+	jetencode "github.com/nihankhan/jetencode-sdk/go"
 )
 
 func main() {

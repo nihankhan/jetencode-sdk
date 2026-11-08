@@ -1,3 +1,3 @@
-module github.com/GotipathTeam/jetencode/sdk/go
+module github.com/nihankhan/jetencode-sdk/go
 
 go 1.21
